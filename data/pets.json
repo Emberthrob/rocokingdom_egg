@@ -4433,7 +4433,9 @@
     ],
     "evolves_from_id": 3550,
     "has_shiny": null,
-    "special_tags": []
+    "special_tags": [
+      1002
+    ]
   },
   {
     "id": 3553,
@@ -6292,7 +6294,38 @@
     "has_shiny": 104,
     "special_tags": []
   },
-  
+  {
+    "id": 3773,
+    "name": "睡铃雪影娃娃",
+    "egg_groups": [
+      1
+    ],
+    "evolves_from_id": null,
+    "has_shiny": null,
+    "special_tags": [
+      1002
+    ]
+  },
+  {
+    "id": 3774,
+    "name": "宝藏小狐",
+    "egg_groups": [
+      6
+    ],
+    "evolves_from_id": null,
+    "has_shiny": null,
+    "special_tags": []
+  },
+  {
+    "id": 3775,
+    "name": "宝藏沙狐",
+    "egg_groups": [
+      6
+    ],
+    "evolves_from_id": 3374,
+    "has_shiny": null,
+    "special_tags": []
+  },
   {
     "_comment": "继续添加未录入精灵"
   },
