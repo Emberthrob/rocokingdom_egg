@@ -5340,9 +5340,12 @@
   {
     "id": 3660,
     "name": "加油蟹",
-    "egg_groups": [],
+    "egg_groups": [
+      7,
+      13
+    ],
     "evolves_from_id": 3659,
-    "has_shiny": null,
+    "has_shiny": 102,
     "special_tags": []
   },
   {
@@ -6322,7 +6325,7 @@
     "egg_groups": [
       6
     ],
-    "evolves_from_id": 3374,
+    "evolves_from_id": 3774,
     "has_shiny": null,
     "special_tags": []
   },
